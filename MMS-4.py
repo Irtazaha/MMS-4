@@ -20,7 +20,6 @@ from time import sleep
 from re import search as qsr
 from os import system
 import random
-from colorama import Fore, Back, Style
 
 "-----Colors-----"
 r = Fore.RED
