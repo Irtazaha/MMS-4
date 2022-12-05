@@ -26,7 +26,6 @@ r = Fore.RED
 g = Fore.GREEN 
 c = Fore.CYAN
 p = Fore.BLUE
-
 "-----Logo-----"
 logo = f"""
     \33[1;92m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
